@@ -1,0 +1,1 @@
+Code used to gather OmniGraffle license for accounting for and verifying validity of license.
